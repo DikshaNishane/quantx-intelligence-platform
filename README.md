@@ -2,7 +2,6 @@
 
 QuantX AI is a sophisticated, real-time financial analysis and portfolio management platform designed for the modern investor. Leveraging the power of Google's Gemini AI, it provides institutional-grade insights, predictive analytics, and algorithmic signals in a sleek, high-performance interface.
 
-[Live Preview](https://ai.studio/apps/4d11d514-6762-4ad5-9d17-f521ada85f0d)
 
 ---
 
