@@ -1,6 +1,9 @@
 # QuantX AI - Institutional-Grade Financial Intelligence
 
 QuantX AI is a sophisticated, real-time financial analysis and portfolio management platform designed for the modern investor. Leveraging the power of Google's Gemini AI, it provides institutional-grade insights, predictive analytics, and algorithmic signals in a sleek, high-performance interface.
+## 🚀 Live Demo
+
+🔗 [QuantX Intelligence Platform](https://quantx-intelligence-platform.vercel.app/)
 
 
 ---
